@@ -1,5 +1,5 @@
 const codes = [
-  "ArrowUp"
+  "ArrowUp",
   "ArrowUp",
   "ArrowDown",
   "ArrowDown",
